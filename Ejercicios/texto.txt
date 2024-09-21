@@ -1,0 +1,23 @@
+# Archivo de ejemplo para expresion regular
+
+El Xubuntu esta basado en Ubuntu
+Linux
+LinuxUbuntu
+Linux Ubuntu
+El Sistema Operacional Linux
+El Linux
+Origen Linux
+ElLinux
+
+# Esto es un comentario
+bag
+beg
+big
+bog
+bug
+beginner
+bigger
+bugzilla
+bege
+
+server.linux.com
